@@ -2,7 +2,7 @@
 Is it magik?  Or is it just a 3d printed box for holding your solder stencils with automatic lifting and normal vacuum cleaner hold down?
 
 # Warning:
-If your computer suck for Fusion 360, like my M1 mini. Changing the box width/length parameters can take some time. Be patient, it did not crash. However, if you change the parameters to something crazy. You are def gonna break the design.
+If your computer suck for Fusion 360, like my M1 mini. Changing the box width/length parameters can take some time. Be patient, it did not crash. However, if you change the parameters to something crazy. You are def gonna break the design. (You also might break the design by changing something reasonable, I just did some very basic parametric change anti breaking testing)
 
 # Questions?
 Comment here or in the youtube video, https://youtu.be/9BKQ18qDeZQ

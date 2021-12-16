@@ -7,7 +7,7 @@ Comment here or in the youtube video, https://youtu.be/9BKQ18qDeZQ
 
 
 # The text below is for v2
-ersion 2 which is fully parametric. Filename: filee.f3d.
+Version 2 which is fully parametric design if you need different size box than in the new version. Filename: magik_solder_paste_stencil_box.f3d.
 
 # Warning:
 If your computer suck for Fusion 360, like my M1 mini. Changing the box width/length parameters can take some time. Be patient, it did not crash. However, if you change the parameters to something crazy. You are def gonna break the design. (You also might break the design by changing something reasonable, I just did some very basic parametric change anti breaking testing)
